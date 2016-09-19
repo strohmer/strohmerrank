@@ -1,4 +1,4 @@
 # strohmerrank
-A repository for coding challenges from various sites. 
-That's it. 
-But GitHub insists on having a Readme.
+A repository for coding challenges from various sites such as HackerRank.  
+That's it.  
+But GitHub insists on having a Readme.  
