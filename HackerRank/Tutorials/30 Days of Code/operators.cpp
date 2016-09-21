@@ -13,14 +13,14 @@ int main() {
     double mealCost, tipPercent, taxPercent;
     int totalCost;
 
-    cin >> mealCost; // 10.25
-    cin >> tipPercent; // 17
-    cin >> taxPercent; // 5
+    cin >> mealCost;
+    cin >> tipPercent;
+    cin >> taxPercent;
 
     tipPercent = (mealCost * (tipPercent/100));
     taxPercent = (mealCost * (taxPercent/100));
 
-    totalCost = mealCost + tipPercent + taxPercent; // 13
+    totalCost = mealCost + tipPercent + taxPercent; 
 
     cout << "The total meal cost is " << totalCost << " dollars." << endl;
 
