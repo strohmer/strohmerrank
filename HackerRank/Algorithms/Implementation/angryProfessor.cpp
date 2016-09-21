@@ -1,6 +1,8 @@
-//http://www.github.com/Strohmer
-//https://www.hackerrank.com/Strohmer
-//Wenn du durch die Hölle gehst, geh weiter!
+/*
+ * http://www.github.com/Strohmer
+ * https://www.hackerrank.com/Strohmer
+ * Wenn du durch die Hölle gehst, geh weiter!
+ */
 
 /*
  * A Discrete Mathematics professor has a class of N students. Frustrated with their lack of discipline,

@@ -1,6 +1,13 @@
 /*
- * Lilah has a string, s, of lowercase English letters that she repeated infinitely many times.
- * Given an integer, n, find and print the number of letter a's in the first n letters of Lilah's infinite string.
+ * http://www.github.com/Strohmer
+ * https://www.hackerrank.com/Strohmer
+ * Wenn du durch die Hölle gehst, geh weiter!
+ */
+
+/*
+ * Lilah has a string, s, of lowercase English letters that she repeated
+ * infinitely many times. Given an integer, n, find and print the number of
+ * letter a's in the first n letters of Lilah's infinite string.
  */
 
 #include <iostream>
@@ -16,7 +23,7 @@ int main() {
     string s2 = "a";
 
     if (strstr(s.c_str(),s2.c_str())) {
-        
+
     } else {
         cout << 0 << endl;
     }

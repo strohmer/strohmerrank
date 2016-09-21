@@ -1,6 +1,8 @@
-//http://www.github.com/Strohmer
-//https://www.hackerrank.com/Strohmer
-//Wenn du durch die Hölle gehst, geh weiter!
+/*
+ * http://www.github.com/Strohmer
+ * https://www.hackerrank.com/Strohmer
+ * Wenn du durch die Hölle gehst, geh weiter!
+ */
 
 /*
  * You are given N sticks, where the length of each stick is a positive integer. A cut operation is performed on the
